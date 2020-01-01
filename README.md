@@ -1,5 +1,7 @@
 # 0x0.app
 
+![screenshot](screenshot.png)
+
 Application to upload files quickly using the statusbar.
 
 ## Usage
